@@ -1,1 +1,1 @@
-# heroku-titanic-logistric-regressor
+# Logistic Regression Example
