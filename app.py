@@ -4,7 +4,7 @@ import pickle
 from sklearn.linear_model import LogisticRegression
 
 # local url
-#url = 'http://127.0.0.1:5000' # change to your url
+url = 'http://127.0.0.1:5000' # change to your url
 # load model
 model = pickle.load(open('./model/model.pkl','rb'))
 # app
